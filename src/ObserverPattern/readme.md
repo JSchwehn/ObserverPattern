@@ -1,7 +1,7 @@
 Observer Pattern
 ===============
 
-![alt text](https://github.com/JSchwehn/ObserverPattern/blob/master/src/ObserverPattern/doc/observerPattern.png "Observer Pattern")
+![Observer Pattern](https://raw.githubusercontent.com/JSchwehn/ObserverPattern/master/src/ObserverPattern/doc/observerPattern.png "Observer Pattern")
 
 A simple implementation of the Observer Pattern.
 
