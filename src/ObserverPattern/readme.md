@@ -1,7 +1,7 @@
 Observer Pattern
 ===============
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/JSchwehn/ObserverPattern/blob/master/src/ObserverPattern/doc/observerPattern.png "Observer Pattern")
 
 A simple implementation of the Observer Pattern.
 
